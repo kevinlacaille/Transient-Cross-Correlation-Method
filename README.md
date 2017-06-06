@@ -11,4 +11,4 @@ The procedure goes as follows:
 	- Note: The “peak of the cross correlation” is actually an estimated peak of the cross correlation product (see Figure 13). What is done here is the script fits a 2D Gaussian to that peak and then used the position of the peak of the Gaussian as the “peak of the cross correlation”.
 
 3) Correct the image offset by shifting one of the images by this measured radial offset. 
-  - This is done in an external data reduction program (e.g. Starlink ORACDR, Starlink makemap)
+	- This is done in an external data reduction program (e.g. Starlink ORACDR, Starlink makemap)
