@@ -25,7 +25,7 @@
 # If this code contributes to a project that leads to a scientific publication, please acknowledge 
 # this fact by citing the project. You can acquire the citation from the following journal, and DOI entry: 
 # Mairs et al. 2017, ApJ
-# DOI: https://www.dropbox.com/s/qaia9w8zxtyuug6/transient_dr_cal.pdf?dl=0
+# arXiv: https://arxiv.org/pdf/1706.01897.pdf
 
 
 #Description of the code:
