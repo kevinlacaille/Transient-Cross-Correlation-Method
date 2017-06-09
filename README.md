@@ -1,6 +1,6 @@
 # Transient-Cross-Correlation-Method
 These are the Python scripts I have written to compute the cross correlation between two astronomical images. 
-These scripts were produced for the JCMT Transient project (http://www.eaobservatory.org/jcmt/science/large-programs/transient/) and the publication can be found here: https://www.dropbox.com/s/76906qbevx3honj/transient_dr_cal.pdf?dl=0
+These scripts were produced for the JCMT Transient project (http://www.eaobservatory.org/jcmt/science/large-programs/transient/) and the publication can be found here: https://arxiv.org/pdf/1706.01897.pdf
 
 The procedure goes as follows:
 
